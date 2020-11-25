@@ -90,6 +90,7 @@ body {
 }
 
 .calculator .container {
+  user-select: none;
   display: -moz-grid;
   display: -ms-grid;
   display: grid;
